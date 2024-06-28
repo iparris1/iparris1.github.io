@@ -22,18 +22,18 @@ Johns Hopkins University (2020-2024) - Bachelors of Science in Computer Science
   * Takes a natural language question as input, returns a string resembling a search query (i.e. stopword removal, lemmatizing, etc.)
   * Uses NLP-related Python libraries such as Stanza
 * [Le Sserafind](https://github.com/jamnavarro/bitcamp)
-* * Bitcamp 2024 Machine Learning Track project
+ * Bitcamp 2024 Machine Learning Track project
   * Contains a dataset we created of pictures of each member of KPOP group Le Sserafim
   * Uses a Convolutional Neural Network (CNN) to identify which member is in a photo provided by the user
   * Utilized libraries such as Pytorch
 * [Pokemon CLIR](https://github.com/irelandparrish/pokemon_clir)
-* * Uses pre-existing translation services to translate a search query from English into Japanese or vice versa and returns the Wikipedia results retrieved from the translated search query
+ * Uses pre-existing translation services to translate a search query from English into Japanese or vice versa and returns the Wikipedia results retrieved from the translated search query
   * Cross Language Information Retrieval project
 ### Software Engineering
 * [ReciPlease](https://reciplease-ooseteam-02.vercel.app/)
-* * A 'PERN' (MERN but with Prisma) project focused on making recipes more accessible
+ * A 'PERN' (MERN but with Prisma) project focused on making recipes more accessible
 * [SyllaJay](https://github.com/Scesar1/SyllaJay)
-* * HopHacks 2023 project that parses through course syllabi
+ * HopHacks 2023 project that parses through course syllabi
 
 # Awards and Recognitions
 * FFU Ongoing Venture Prize (Hophacks 2021)
