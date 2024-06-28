@@ -1,3 +1,12 @@
+# About
+Hi, my name is Ireland and I recently graduated with a degree in Computer Science. For the first three years of my undergrad I focused mostly on software engineering, taking classes such as Fullstack Javascript, Object Oriented Software Engineering, Data Structures, and Intro Algorithms, while also participating in hackathons with more web-development focused projects. For my final year, I focused heavily on machine learning, taking classes such as Machine Learning, NLP for Computational Social Sciences, and Artificial Intelligence. I also began working on a research project in my senior year focused primarily on Cross Language Information Retrieval and Machine Translation. Regarding my math background, I took Calculus 1 through 3, Differential Equations, Linear Algebra, and Probability and Statistics.
+
+I'm really interested in NLP! I've been interested in languages for a long time, even teaching myself Korean in middle school. Up until around a year ago, however, I didn't really think that my interests in languages and computer science would ever align well. When I became interested in AI, I took a deep dive into all of the sub-fields and stumbled across NLP and immediately got excited. You might be thinking: enjoying learning languages doesn't have much to do with linguistics or NLP. I agree! However, ever since I started to research NLP more and more, I got more interested in the intricacies of language. Having learned Korean and Japanese made studying machine translation even more interesting, because those two languages are vastly different from English. The first semester of my research project was mostly focused on machine translation, where I chose to hone in on researching the various ways people have suggested tokenizing Korean text for translation purposes. 
+
+Creativity is one of my strong suits. When I was in middle school, I actually considered going to the local arts high school! I loved drawing growing up, drawing everything from anime characters to KPOP idols. I think that gave me an eye for design, which led to me often creating the UI for the web development projects I worked on.
+
+In terms of hobbies, I'm a big gamer. JRPGs are my favorite, I love games like Final Fantasy, Persona, and Monster Hunter. Pokemon has its own dedicated section of my heart, since I grew up playing it with my siblings.
+
 # Education
 Johns Hopkins University (2020-2024) - Bachelors of Science in Computer Science
 
