@@ -34,3 +34,7 @@ Johns Hopkins University (2020-2024) - Bachelors of Science in Computer Science
 * * A 'PERN' (MERN but with Prisma) project focused on making recipes more accessible
 * [SyllaJay](https://github.com/Scesar1/SyllaJay)
 * * HopHacks 2023 project that parses through course syllabi
+
+# Awards and Recognitions
+* FFU Ongoing Venture Prize (Hophacks 2021)
+* Dean's List (Spring 2024)
