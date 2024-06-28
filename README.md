@@ -2,7 +2,7 @@
 
 
 # Education
-Johns Hopkins University (2020-2024 expected) - Bachelors of Science in Computer Science
+Johns Hopkins University (2020-2024) - Bachelors of Science in Computer Science
 
 # Skills
 Programming languages: Python, Java, Javascript
