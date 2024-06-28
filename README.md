@@ -1,6 +1,3 @@
-# Work Experience
-
-
 # Education
 Johns Hopkins University (2020-2024) - Bachelors of Science in Computer Science
 
